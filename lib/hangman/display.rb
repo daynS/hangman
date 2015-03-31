@@ -1,6 +1,9 @@
 # displays info to user
 
-Module Hangman
+module Hangman
 	class Display
+
+		
+
 	end
 end

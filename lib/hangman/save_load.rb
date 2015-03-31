@@ -1,10 +1,9 @@
 require 'yaml'
 
-Module Hangman
-	class Save_Load
+module Hangman
+	class Persist
 
-		def save_game
-		end
+		
 
 		def load_game
 		end
